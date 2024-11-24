@@ -4,12 +4,6 @@
 
 ![Screenshot](Screenshot2024-11-24233728.jpeg)
 
-## Features
-- **Dynamic Combat**: Fast-paced swordplay with combo mechanics and enemy AI.
-- **Cyberpunk World**: Explore a gritty cityscape filled with neon lights and danger.
-- **Character Customization**: Equip cybernetic upgrades and enhance your skills.
-- **Stealth and Action**: Approach missions with precision or brute force.
-
 ## Installation
 1. **Clone the Repository**:
    ```bash
